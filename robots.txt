@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-y3n2yj.epishort.vip/sitemap.xml
